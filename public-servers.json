@@ -1,0 +1,13 @@
+{
+	"servers": [{
+			"id": 0,
+			"name": "The Lawn",
+			"site": "https://lawnalternatives.github.io/",
+			"location": "USA",
+			"host": "8.9.11.45",
+			"port": 4747,
+			"authRequired": true,
+			"regRequired": false
+		}
+	]
+}
